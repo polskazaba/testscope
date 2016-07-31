@@ -1,2 +1,0 @@
-# testscope
-testbed carescope
